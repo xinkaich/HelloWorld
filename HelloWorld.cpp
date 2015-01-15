@@ -1,5 +1,5 @@
 # include <iostream>
 
 int main() {
-	std:: cout<<"HelloWolrd!"<<std::endl;
+	std:: cout<<"Fighton!"<<std::endl;
 }
